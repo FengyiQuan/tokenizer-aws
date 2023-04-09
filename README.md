@@ -45,4 +45,5 @@ This is another sentence. [<SOS>, This, is, another, sentence, ., <EOS>]
 ```
 
 # Credits
-https://github.com/Sirsirious/NLPTools
+<https://github.com/Sirsirious/NLPTools>
+<https://medium.com/analytics-vidhya/tokenization-building-a-tokenizer-and-a-sentencizer-c19a00393c19>
